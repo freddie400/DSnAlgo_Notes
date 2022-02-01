@@ -6,8 +6,6 @@
 <after a heading, an underline comes automatically>
 <three dash are also a separation line>
 
-imma delete this later
-
 ___
 
 _author: Priyanshu Raj Shrivastava_
