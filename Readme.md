@@ -31,7 +31,7 @@ ___
 
 ## Including Images
 
-![alternative text for image](https://64.media.tumblr.com/013205da55fb522c3029b4bd36e461be/44d27a9d46b35df3-39/s500x750/0e40e2bedca4089b10bd83558cf56cb4f4359449.gifv "it's cool, isn't it?")
+![alternative text for image](https://64.media.tumblr.com/c91fb3b87b8773755af389565c3b93b9/tumblr_inline_pm68x0LDfD1um01yg_1280.jpg "it's cool, isn't it?")
 
 ___
 
