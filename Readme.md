@@ -39,7 +39,7 @@ ___
 
 backtick pair ` for a side word..
 
-3 backticks for a code block ```
+3 backticks for a code block
 
 use `for` loop
 
@@ -96,3 +96,7 @@ dash/hyphen
 2. https://www.geeksforgeeks.org/ultimate-guide-git-github/
 3. https://tutorials.codebar.io/version-control/command-line/tutorial.html
 4. https://kbroman.org/github_tutorial/pages/init.html
+
+[for git fetch and pull](https://www.atlassian.com/git/tutorials/syncing/git-fetch#:~:text=The%20git%20fetch%20command%20downloads,else%20has%20been%20working%20on.&text=This%20makes%20fetching%20a%20safe,them%20with%20your%20local%20repository.)
+
+[see this also](https://www.freecodecamp.org/news/git-fetch-vs-pull/)
