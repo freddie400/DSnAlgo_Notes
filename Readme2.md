@@ -1,6 +1,6 @@
 # Data Structure and Algorithms Study Roadmap
 ___
-# Introduction ![Introduction](https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png=10x10 "stop hovering, read on, interesting stuff ahead")
+# Introduction ![Introduction](https://github.githubassets.com/images/icons/emoji/unicode/1f4d7.png =10x10 "stop hovering, read on, interesting stuff ahead")
 
 ___
 
