@@ -5,8 +5,8 @@
 ---  underline (automatically after a heading)
 _a_  italic
 ~a~  strikethrough
-![alt txt](link "")  link
-![alt txt](link "") pic
+[alt txt](link "")  link >> with an ! sign
+[alt txt](link "") pic
 `
 3 ` >> code block
 |a|b|c|
@@ -21,9 +21,9 @@ ___
 
 
 ## Arrays
-![array Q1](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "do this question by> normal sum, bit-wise and by playing with index")
+[array Q1](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "do this question by> normal sum, bit-wise and by playing with index")
 
-![array Q2](https://www.interviewbit.com/old/problems/n3-repeat-number/ "a good logic inside, haven't understood it yet")
+[array Q2](https://www.interviewbit.com/old/problems/n3-repeat-number/ "a good logic inside, haven't understood it yet")
 
 ___
 
@@ -31,7 +31,7 @@ ___
 **Goldbach's Conjecture**
 says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
-![math Q1](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
+[math Q1](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
 
 
@@ -65,7 +65,7 @@ i.e. -2^31
 
 
 ## Bit Manipulation
-![Bitwise Q1](https://www.interviewbit.com/old/problems/single-number/ "nice logic")
+[Bitwise Q1](https://www.interviewbit.com/old/problems/single-number/ "nice logic")
 
 a) XOR of a number with itself is 0. 
 b) XOR of a number with 0 is number itself.
@@ -81,3 +81,10 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
     = 7 ^ 0 ^ 0 ^ 0
     = 7 ^ 0
     = 7 
+
+[BitWise Q2](https://www.interviewbit.com/old/problems/single-number-ii/ "solve it")
+
+[BitWise Q3](https://www.interviewbit.com/old/problems/count-total-set-bits/ "see my and others solution")
+
+[BitWise Q4](https://leetcode.com/problems/counting-bits/submissions/ "count bits logic")
+
