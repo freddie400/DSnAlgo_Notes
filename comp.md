@@ -67,7 +67,8 @@ i.e. -2^31
 ## Bit Manipulation
 [Bitwise Q1](https://www.interviewbit.com/old/problems/single-number/ "nice logic")
 
-a) XOR of a number with itself is 0. 
+a) XOR of a number with itself is 0.
+
 b) XOR of a number with 0 is number itself.
 
 Let us consider the above example.  
