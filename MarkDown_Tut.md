@@ -37,7 +37,7 @@ ___
 
 ## Mention a code
 
-backtick pair ` for a side word..
+backtick pair ` for a single word..
 
 3 backticks for a code block
 
