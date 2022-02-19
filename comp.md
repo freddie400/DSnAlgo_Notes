@@ -21,9 +21,9 @@ ___
 
 
 ## Arrays
-[array Q1](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "do this question by> normal sum, bit-wise and by playing with index")
+[Solve by> Normal Sum, Bit-Wise and by Playing with Index](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Array Q1")
 
-[array Q2](https://www.interviewbit.com/old/problems/n3-repeat-number/ "a good logic inside, haven't understood it yet")
+[A Good Logic](https://www.interviewbit.com/old/problems/n3-repeat-number/ "Array Q2")
 
 ___
 
@@ -31,7 +31,7 @@ ___
 **Goldbach's Conjecture**
 says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
-[math Q1](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
+[Hamming Distance Sum](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Math Q1")
 
 
 
@@ -63,9 +63,11 @@ _ _ _ ... _ _
 
 i.e. -2^31
 
+___
+
 
 ## Bit Manipulation
-[BitWise Q1](https://www.interviewbit.com/old/problems/single-number/ "nice logic")
+[Nice Logic](https://www.interviewbit.com/old/problems/single-number/ "Bit-Wise Q1")
 
 a) XOR of a number with itself is 0.
 
@@ -83,9 +85,9 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
     = 7 ^ 0
     = 7 
 
-[BitWise Q2](https://www.interviewbit.com/old/problems/single-number-ii/ "solve it")
+[Solve Once](https://www.interviewbit.com/old/problems/single-number-ii/ "Bit-Wise Q2")
 
-[BitWise Q3](https://www.interviewbit.com/old/problems/count-total-set-bits/ "see my and others solution")
+[See Mine and Other's Solution](https://www.interviewbit.com/old/problems/count-total-set-bits/ "Bit-Wise Q3")
 
-[BitWise Q4](https://leetcode.com/problems/counting-bits/submissions/ "count bits logic")
+[Count Bits Logic](https://leetcode.com/problems/counting-bits/submissions/ "Bit-Wise Q4")
 
