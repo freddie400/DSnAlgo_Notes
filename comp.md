@@ -5,8 +5,8 @@
 ---  underline (automatically after a heading)
 _a_  italic
 ~a~  strikethrough
-![alt txt](link "")  link
-![alt txt](link "") pic
+[alt txt](link "")  link >> with an ! sign
+[alt txt](link "") pic
 `
 3 ` >> code block
 |a|b|c|
