@@ -75,7 +75,13 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
 
 [Count Bits Logic](https://leetcode.com/problems/counting-bits/submissions/ "Bit-Wise Q4")
 
+___
 
+## 2-Pointers
+
+> .erase has O(n^2) complexity
+
+[Logic](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "2-Pointers Q1")
 
 
 
