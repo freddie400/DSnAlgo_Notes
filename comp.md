@@ -83,6 +83,7 @@ ___
 
 [Logic](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "2-Pointers Q1")
 
+[Good One](https://leetcode.com/problems/fruit-into-baskets/ "2-Pointers Q2)
 
 
 ___
