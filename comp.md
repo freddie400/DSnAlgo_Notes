@@ -87,8 +87,39 @@ ___
 
 [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/ "Good One")
 
+___
+
+## "Linked List"
+
+<later>
 
 ___
+
+## "Hashing"
+
+___
+
+
+___
+___
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 ___
 ___
 
