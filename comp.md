@@ -1,9 +1,9 @@
 ___
 
 ## Arrays
-[Solve by> Normal Sum, Bit-Wise and by Playing with Index](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Array Q1")
+[Repeat and Missing Number Array](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Solve by> Normal Sum, Bit-Wise and by Playing with Index")
 
-[A Good Logic](https://www.interviewbit.com/old/problems/n3-repeat-number/ "Array Q2")
+[N/3 Repeat Number](https://www.interviewbit.com/old/problems/n3-repeat-number/ "A Good Logic")
 
 ___
 
