@@ -7,7 +7,7 @@ ___
 
 ___
 
-## Maths
+## "Maths"
 **Goldbach's Conjecture** says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
 [Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
@@ -48,7 +48,7 @@ i.e. -2^31
 ___
 
 
-## Bit Manipulation
+## "Bit Manipulation"
 [Single Number](https://www.interviewbit.com/old/problems/single-number/ "Nice Logic")
 
 a) XOR of a number with itself is 0.
@@ -77,7 +77,7 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
 
 ___
 
-## 2-Pointers
+## "2-Pointers"
 
 > .erase has O(n^2) complexity
 
