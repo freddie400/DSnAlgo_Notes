@@ -98,9 +98,17 @@ ___
 
 ## "Hashing"
 
+[Window String](https://www.interviewbit.com/old/problems/window-string/ "to be done with sliding windows and 'concept' of MAP")
 
 ___
 
+
+## "Stacks and Queues"
+
+>> stoi converts string to integer
+
+[Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/ "Just to get the idea of Stack")
+[Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/ "Reverse Polish Notation")
 
 ___
 ___
