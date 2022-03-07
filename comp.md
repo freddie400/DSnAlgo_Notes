@@ -52,9 +52,9 @@ ___
 ## "Bit Manipulation"
 [Single Number](https://www.interviewbit.com/old/problems/single-number/ "Nice Logic")
 
-a) XOR of a number with itself is 0.
+>> a) XOR of a number with itself is 0.
 
-b) XOR of a number with 0 is number itself.
+>> b) XOR of a number with 0 is number itself.
 
 Let us consider the above example.  
 Let ^ be xor operator as in C and C++.
