@@ -10,7 +10,7 @@ ___
 ## Maths
 **Goldbach's Conjecture** says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
-[Hamming Distance Sum](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Math Q1")
+[Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
 **Memory allocation to variables in computer memory**
 
@@ -49,7 +49,7 @@ ___
 
 
 ## Bit Manipulation
-[Nice Logic](https://www.interviewbit.com/old/problems/single-number/ "Bit-Wise Q1")
+[Single Number](https://www.interviewbit.com/old/problems/single-number/ "Nice Logic")
 
 a) XOR of a number with itself is 0.
 
@@ -69,11 +69,11 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
     = 7 
 ```
 
-[Solve Once](https://www.interviewbit.com/old/problems/single-number-ii/ "Bit-Wise Q2")
+[Single Number II](https://www.interviewbit.com/old/problems/single-number-ii/ "Solve Once")
 
-[See Mine and Other's Solution](https://www.interviewbit.com/old/problems/count-total-set-bits/ "Bit-Wise Q3")
+[Count Total Set Bits](https://www.interviewbit.com/old/problems/count-total-set-bits/ "See Mine and Other's Solution")
 
-[Count Bits Logic](https://leetcode.com/problems/counting-bits/submissions/ "Bit-Wise Q4")
+[Counting Bits](https://leetcode.com/problems/counting-bits/submissions/ "Count Bits Logic")
 
 ___
 
@@ -81,9 +81,9 @@ ___
 
 > .erase has O(n^2) complexity
 
-[Logic](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "2-Pointers Q1")
+[Remove Duplicates from Sorted Array](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "Logic")
 
-[Good One](https://leetcode.com/problems/fruit-into-baskets/ "2-Pointers Q2")
+[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/ "Good One")
 
 
 ___
