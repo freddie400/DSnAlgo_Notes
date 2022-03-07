@@ -8,7 +8,8 @@ ___
 ___
 
 ## "Maths"
-**Goldbach's Conjecture** says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
+
+>> Goldbach's Conjecture says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
 [Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
@@ -96,6 +97,7 @@ ___
 ___
 
 ## "Hashing"
+
 
 ___
 
