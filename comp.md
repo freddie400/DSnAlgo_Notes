@@ -83,6 +83,8 @@ ___
 
 [Remove Duplicates from Sorted Array](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "Logic")
 
+[4Sum](https://leetcode.com/problems/4sum/ "Nothing special, just general idea of 2-pointers")
+
 [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/ "Good One")
 
 
