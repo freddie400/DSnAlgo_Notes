@@ -80,7 +80,7 @@ ___
 
 ## "2-Pointers"
 
-> .erase has O(n^2) complexity
+>> .erase has O(n^2) complexity
 
 [Remove Duplicates from Sorted Array](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "Logic")
 
@@ -92,7 +92,7 @@ ___
 
 ## "Linked List"
 
-> > > later
+**later**
 
 ___
 
