@@ -92,9 +92,10 @@ p = &a;         // this pointer p is not pointing at the address where variable 
                 // & is an (address of) operator
                 // lets say the address at which p is stored is x2
 int** p2 = &p;  // pointer p2 of type int**, which points to an address which stores the data type int* (a pointer itself)
-int b = *p;     // * is a (value at) dereference operator. means, we stored the value at the address at which the pointer p is pointing in a new variable b
+int b = *p;     // * is a (value at) dereference operator. means, we stored the value at the address at which the pointer p
+                // is pointing in a new variable b
 int* pb = &b;   // this variable b is stored at an entirely different address. it is merely a copy of value stored at address p
-int c = *p;    // same story again, copying stuffs at address p to a new variable c at a new address
+int c = *p;     // same story again, copying stuffs at address p to a new variable c at a new address
 int c = 11;
 int b = 7;
 after the last two operations:
@@ -135,6 +136,23 @@ ___
 [Redundant Braces](https://www.interviewbit.com/problems/redundant-braces/ "Just to get the idea of Stack")
 
 [Evaluate Expression](https://www.interviewbit.com/problems/evaluate-expression/ "Reverse Polish Notation")
+
+[132 Pattern](https://leetcode.com/problems/132-pattern/ "Nice implementation")
+
+[Remove K Digits](https://leetcode.com/problems/remove-k-digits/submissions/ "makes you think")
+
+[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/ "one of the best")
+
+[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/ "one of the best")
+
+___
+
+## "Trees"
+
+[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/ "simple hi h, solve kar lo but")
+
+[Next Greater Number BST](https://www.interviewbit.com/problems/next-greater-number-bst/ "just solve it")
+
 
 ___
 ___
