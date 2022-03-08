@@ -82,6 +82,31 @@ ___
 
 >> .erase has O(n^2) complexity
 
+*a bit about pointers:*
+
+```
+int a = 5;      // we stored the value 5 on a variable named a, at address x1
+int* p;         // we made a pointer that points to an adress that stores the data type int
+                // the data type of this type of pointer is int*
+p = &a;         // this pointer p is not pointing at the address where variable a is stored
+                // & is an (address of) operator
+                // lets say the address at which p is stored is x2
+int** p2 = &p;  // pointer p2 of type int**, which points to an address which stores the data type int* (a pointer itself)
+int b = *p;     // * is a (value at) dereference operator. means, we stored the value at the address at which the pointer p is pointing in a new variable b
+int* pb = &b;   // this variable b is stored at an entirely different address. it is merely a copy of value stored at address p
+int c = *p;    // same story again, copying stuffs at address p to a new variable c at a new address
+int c = 11;
+int b = 7;
+after the last two operations:
+int a = 5;
+int b = 7;
+int c = 11;
+OBVIOUSLY, we had copied the values at pointer p to b/c. Now we have changed it.
+This doesn't mean that the root value at pointer p's address is changed.
+DUHH !!
+```
+
+
 [Remove Duplicates from Sorted Array](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "Logic")
 
 [4Sum](https://leetcode.com/problems/4sum/ "Nothing special, just general idea of 2-pointers")
