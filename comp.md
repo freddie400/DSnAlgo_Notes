@@ -153,6 +153,21 @@ ___
 
 [Next Greater Number BST](https://www.interviewbit.com/problems/next-greater-number-bst/ "just solve it")
 
+[Vertical Order Traversal of Binary Tree](https://www.interviewbit.com/old/problems/vertical-order-traversal-of-binary-tree/ "its not pre-order, its level order")
+
+[Flatten Binary Tree to Linked List](https://www.interviewbit.com/old/problems/flatten-binary-tree-to-linked-list/ "good one")
+
+___
+
+## "Backtracking"
+
+[Sudoku](https://www.interviewbit.com/old/problems/sudoku/ "Solve this once for a good overview of board problems")
+
+[Subset](https://www.interviewbit.com/old/problems/subset/ "this approach might help in some other problems, do it by recursion and backtracking >> 2 methods")
+
+
+
+
 
 ___
 ___
