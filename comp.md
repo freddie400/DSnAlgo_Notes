@@ -165,7 +165,13 @@ ___
 
 [Subset](https://www.interviewbit.com/old/problems/subset/ "this approach might help in some other problems, do it by recursion and backtracking >> 2 methods")
 
-
+```
+set<vector<int>> v2(v1.begin(), v1.end());
+v1.clear();
+for(auto it:v2){
+    v1.push_back(it);
+}
+```
 
 
 
