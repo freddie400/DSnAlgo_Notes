@@ -5,6 +5,8 @@ ___
 
 [N/3 Repeat Number](https://www.interviewbit.com/old/problems/n3-repeat-number/ "A Good Logic")
 
+> one thing about this question, `n/3` here, we take c1 and c2, as 2=3-1.
+> if `n/t`, then we take ci where i=t-1
 ___
 
 ## "Maths"
