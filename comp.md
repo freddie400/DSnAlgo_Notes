@@ -15,6 +15,8 @@ ___
 
 [Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
+> ct*(n-ct) is done to multiple 'count of 1s & count of 0s', i.e. ct==1s and n-ct==0s
+
 **Memory allocation to variables in computer memory**
 
 there is separate limit to store positive and negative numbers in a 32 bit system.
