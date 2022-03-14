@@ -1,5 +1,3 @@
-check
-
 ___
 
 ## "Arrays"
