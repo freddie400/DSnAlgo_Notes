@@ -68,6 +68,11 @@ ___
 
 >> b) XOR of a number with 0 is number itself.
 
+>> c) A<<x, pushes x zeroes to A from its right. It is actually *pow(2,x)
+
+>> d) A=1<<x, pushes x ones to A from its right. It is actually pow(2,x)
+
+
 Let us consider the above example.  
 Let ^ be xor operator as in C and C++.
 
