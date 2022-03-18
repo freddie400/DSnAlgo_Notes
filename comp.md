@@ -3,6 +3,18 @@ ___
 ## "Arrays"
 [Largest Number](https://www.interviewbit.com/problems/largest-number/ "good one")
 
+
+```
+bool comp(string a, string b){
+    return a+b>b+a;
+}
+
+
+sort(v.begin(), v.end(), comp);
+
+```
+
+
 [Repeat and Missing Number Array](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Solve by> Normal Sum, Bit-Wise and by Playing with Index")
 
 [N/3 Repeat Number](https://www.interviewbit.com/old/problems/n3-repeat-number/ "A Good Logic")
