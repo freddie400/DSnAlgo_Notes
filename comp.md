@@ -153,6 +153,7 @@ ___
 
 [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ "really good one")
 
+[Merge Two Sorted Lists](https://www.interviewbit.com/old/problems/merge-two-sorted-lists/ "2 methods, iterative and recursive")
 
 ___
 
