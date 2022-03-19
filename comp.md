@@ -155,6 +155,10 @@ ___
 
 [Merge Two Sorted Lists](https://www.interviewbit.com/old/problems/merge-two-sorted-lists/ "2 methods, iterative and recursive")
 
+[K reverse linked list](https://www.interviewbit.com/old/problems/k-reverse-linked-list/ "dekh lena ek baar")
+
+
+
 ___
 
 ## "Hashing"
