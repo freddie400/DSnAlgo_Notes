@@ -147,7 +147,12 @@ ___
 
 ## "Linked List"
 
-**later**
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/ "2nd method is really cool")
+
+[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii "handle issue with m==1")
+
+[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ "really good one")
+
 
 ___
 
