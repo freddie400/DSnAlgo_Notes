@@ -216,8 +216,39 @@ for(auto it:v2){
 }
 ```
 
+___
+
+## "Prioroty Queue"
+
+[Trains and Platforms](https://www.hackerrank.com/contests/kilobyte-uz-contest1/challenges/trains-and-platforms/problem "good one for priority queue")
+
+___
+
+## "BFS"
+
+## "DFS'
+
+## "Dynamic Programming"
+
+## "Graph Algo: Dijkstra"
+
+## "Graph Algo: Topological Sort"
+
+## "Graph Algo: DFS-Graph coloring, cycle detection in directed and undirected graph"
+
+## "Sliding Window"
+
+## "Binary Search"
+
+## "Greedy"
+
+## "Graph Algo: Union Find"
 
 
+
+
+
+___
 ___
 ___
 .
