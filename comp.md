@@ -27,6 +27,8 @@ ___
 
 >> Goldbach's Conjecture says that every even number (greater than 2) is a sum of two prime numbers not necessarily unique.
 
+>> Euclidean Algorithm for Greatest Common Divisor
+
 [Reverse integer](https://www.interviewbit.com/problems/reverse-integer/ "the main thing is to handle 32 bit signed integer")
 
 [Next Smallest Palindrome](https://www.interviewbit.com/problems/next-smallest-palindrome/ "very good question")
@@ -34,6 +36,7 @@ ___
 [Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
 [Find Nth Fibonacci](https://www.interviewbit.com/problems/find-nth-fibonacci/ "really good one, haven't solved yet")
+
 
 > ct*(n-ct) is done to multiple 'count of 1s & count of 0s', i.e. ct==1s and n-ct==0s
 
