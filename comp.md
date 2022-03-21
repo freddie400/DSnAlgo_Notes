@@ -283,6 +283,8 @@ ___
 
 [As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/ "layer by layer")
 
+[Snake and Ladder](https://practice.geeksforgeeks.org/problems/snake-and-ladder-problem4816/1# "just think once and see the soln")
+
 
 
 ___
