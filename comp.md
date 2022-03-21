@@ -277,7 +277,7 @@ ___
 
 [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "theek hi h matlab")
 
-[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value "ye bhi theek hi h")
+[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value "dfs: 2 ways, bfs: 1 ways >> total 3 ways")
 
 [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/ "dekh lo ek baar, kya hi")
 
@@ -290,6 +290,13 @@ ___
 ___
 
 ## "DFS'
+
+[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/ "implementation")
+
+[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree "nice implementation")
+
+[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/ "2 methods + bfs")
+
 
 ___
 
