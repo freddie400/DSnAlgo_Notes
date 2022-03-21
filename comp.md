@@ -226,54 +226,64 @@ ___
 
 ## "Graphs"
 
-n: No. of vertices
+> n: No. of vertices
 
-Directed: max edges = (n)*(n-1)
+> Directed: max edges = (n)*(n-1)
 
-Undirected: max edges = (n)*(n-1)/2, assuming no self loop or multiedge
+> Undirected: max edges = (n)*(n-1)/2, assuming no self loop or multiedge
 
-Dense Graph: too many edges
+> Dense Graph: too many edges
 
-Sparse Graph: too few edges
+> Sparse Graph: too few edges
 
-Walk, path, trail, closed walk, simple cycle
+> Walk, path, trail, closed walk, simple cycle
 
-Connected, strongly connected, weakly connected, not connected
+> Connected, strongly connected, weakly connected, not connected
 
 **Graph representation:**
 
 ### Edge List:
 
-> i. Finding adjacent nodes = O(n2)
+i. Finding adjacent nodes = O(n2)
 
-> ii. Check if given two nodes are connected = O(n2)
+ii. Check if given two nodes are connected = O(n2)
 
-> iii. not efficient in time complexity
+iii. not efficient in time complexity
 
 ### Adjacency Matrix:
 
-> i. Finding adjacent nodes = O(n)
+i. Finding adjacent nodes = O(n)
 
-> ii. Check if given two nodes are connected = (O(1) + O(n) finding if 2 vertices are connected) (O(n) if names are given, not index, can be avoided using a little more space >> hash table)
+ii. Check if given two nodes are connected = (O(1) + O(n) finding if 2 vertices are connected) (O(n) if names are given, not index, can be avoided using a little more space >> hash table)
 
-> iii. good when graph is dense, no of edges is close to number of vertices, or v2 is too less)
+iii. good when graph is dense, no of edges is close to number of vertices, or v2 is too less)
 
-> iv. O(n2) space
+iv. O(n2) space
 
-> v. big time-space tradeoff
+v. big time-space tradeoff
 
 ### Adjacency List:
 
-> i. Space: O(e)
+i. Space: O(e)
 
-> ii. Finding adjacent nodes = O(n)
+ii. Finding adjacent nodes = O(n)
 
-> iii. Check if given two nodes are connected = O(n)
+iii. Check if given two nodes are connected = O(n)
 
 
 ___
 
 ## "BFS"
+
+[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "theek hi h matlab")
+
+[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value "ye bhi theek hi h")
+
+[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/ "dekh lo ek baar, kya hi")
+
+
+
+
 
 ___
 
