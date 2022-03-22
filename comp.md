@@ -297,6 +297,18 @@ ___
 
 [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/ "2 methods + bfs")
 
+[Lowest Common Ancestor in a Binary Tree](https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1 "good implementation")
+
+[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/ "good implementation")
+
+[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/ "good implementation")
+
+[Regions Cut By Slashes](https://leetcode.com/problems/regions-cut-by-slashes/ "just have a look")
+
+[Number of Provinces](https://leetcode.com/problems/number-of-provinces/ "just have a look")
+
+[All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/ "good implementation")
+
 
 ___
 
