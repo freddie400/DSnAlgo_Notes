@@ -314,6 +314,19 @@ ___
 
 ## "Dynamic Programming"
 
+[House Robber](https://leetcode.com/problems/house-robber "implementation")
+
+[Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1 "implementation")
+
+[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/ "implementation")
+
+[Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ "implementation")
+
+[]( "implementation")
+
+[]( "implementation")
+
+
 ___
 
 ## "Graph Algo: Dijkstra"
