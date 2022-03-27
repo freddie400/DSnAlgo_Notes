@@ -322,7 +322,7 @@ ___
 
 [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ "implementation")
 
-[]( "implementation")
+[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "implementation")
 
 []( "implementation")
 
