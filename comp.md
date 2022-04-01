@@ -360,6 +360,12 @@ ___
 
 ___
 
+## "Misc"
+
+[Integer to Roman](https://leetcode.com/problems/integer-to-roman/ "implementation")
+
+[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/ "just see implementational logic once")
+
 
 
 
