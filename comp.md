@@ -366,6 +366,8 @@ ___
 
 [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/ "just see implementational logic once")
 
+[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/ "Implementation")
+
 
 
 
