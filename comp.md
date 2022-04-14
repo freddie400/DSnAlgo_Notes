@@ -192,6 +192,8 @@ ___
 
 ## "Trees"
 
+[Inorder Traversal Without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/ "solve once")
+
 [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/ "simple hi h, solve kar lo but")
 
 [Next Greater Number BST](https://www.interviewbit.com/problems/next-greater-number-bst/ "just solve it")
