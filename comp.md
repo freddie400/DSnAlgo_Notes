@@ -200,6 +200,8 @@ ___
 
 [Vertical Order Traversal of Binary Tree](https://www.interviewbit.com/old/problems/vertical-order-traversal-of-binary-tree/ "its not pre-order, its level order")
 
+[Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1/ "implementation")
+
 [Flatten Binary Tree to Linked List](https://www.interviewbit.com/old/problems/flatten-binary-tree-to-linked-list/ "good one")
 
 ___
