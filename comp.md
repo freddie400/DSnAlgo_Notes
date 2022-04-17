@@ -221,6 +221,12 @@ vector<vectot<int>> vec;
 
 set<vector<int>> st(vec);
 
+set<vector<int>> v2(v1.begin(), v1.end());
+v1.clear();
+for(auto it:v2){
+    v1.push_back(it);
+}
+
 ```
 
 ___
@@ -285,13 +291,24 @@ ___
 
 [Combination Sum II](https://www.interviewbit.com/problems/combination-sum-ii/ "with and without the for loop")
 
-```
-set<vector<int>> v2(v1.begin(), v1.end());
-v1.clear();
-for(auto it:v2){
-    v1.push_back(it);
-}
-```
+
+Time Complexities:
+
+NQueen: O(n!)
+
+Subset: len*(2^N)
+
+Combinations: k.C(N,k)
+
+Combination Sum: len*(2^t)
+
+Combination Sum II: len*(2^N)
+
+Subsets II: len*(2^N)
+
+[ref 1](https://leetcode.com/problems/combination-sum/discuss/1755084/Detailed-Time-and-Space-Complecity-analysisc%2B%2Bjavabacktracking)
+
+[ref 2](https://leetcode.com/problems/combination-sum-iii/discuss/427713#:~:text=The%20time%20complexity%20is%20O,length%20of%20each%20possible%20solution.)
 
 ___
 
@@ -301,6 +318,9 @@ ___
 priority_queue<int, vector<int>, greater<int>> pq;
 
 priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+
+priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
+
 ```
 
 [Trains and Platforms](https://www.hackerrank.com/contests/kilobyte-uz-contest1/challenges/trains-and-platforms/problem "good one for priority queue")
@@ -624,6 +644,7 @@ ___
 
 [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/ "considered as a really good question")
 
+[Lower Bound, Upper Bound](https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/ "imp STL")
 
 ___
 
