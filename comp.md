@@ -428,13 +428,36 @@ ___
 
 > implementational code
 
-![a](https://serving.photos.photobox.com/56228134c382cfed3386f5ac980e0a5d26b02d9e8997571a10d8e64d610026dcef983882.jpg)
+![Sample Graph](https://serving.photos.photobox.com/3665964029648118fb6c0606cd9652a0fe0f44220b87b5a8e418738b8ae4819880796710.jpg "Sample Graph to Understand Code)
 
 
 ```
-
+class Solution{
+	public:
+    vector<int> dijkstra(int v, vector<vector<int>> adj[], int s){
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
+        pq.push({0,s});
+        vector<int> ans(v,INT_MAX);
+        vector<int> vis(v,0);
+        while(!pq.empty()){
+            auto cp = pq.top();
+            pq.pop();
+            int cd = cp.first;
+            int cn = cp.second;
+            if(ans[cn]>cd) ans[cn]=cd;;
+            vis[cn]=1;
+            for(auto it:adj[cn]){
+                int nn = it[0];
+                int nd = it[1]+cd;
+                if(vis[nn]!=1){
+                    pq.push({nd,nn});
+                }
+            }
+        }
+        return ans;
+    }
+};
 ```
-
 
 [Dijkstra Implementation](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1 "Dijkstra implementation")
 
@@ -445,6 +468,71 @@ ___
 ___
 
 ## "Graph Algo: Topological Sort"
+
+> Topological Sort: DFS
+
+```
+class Solution{
+    void topo(int v, vector<int> adj[], stack<int> &st, vector<int> &vis, int ind){
+        if(vis[ind]) return;
+        vis[ind]=1;
+        for(auto it:adj[ind]){
+            if(!vis[it]){
+                topo(v,adj,st,vis,it);
+            }
+        }
+        st.push(ind);
+    }
+    
+	public:
+	vector<int> topoSort(int v, vector<int> adj[]) {
+	    stack<int> st;
+	    vector<int> ans;
+	    vector<int> vis(v,0);
+	    for(int i=0; i<v; i++){
+	        if(!vis[i]) topo(v,adj,st,vis,i);
+	    }
+	    while(!st.empty()){
+	        ans.push_back(st.top());
+	        st.pop();
+	    }
+	    return ans;
+	}
+};
+```
+
+> Topological Sort: Kahn's Algorithm
+
+```
+class Solution{
+	public:
+	vector<int> topoSort(int v, vector<int> adj[]){
+	    vector<int> ind(v,0);
+	    for(int i=0; i<v; i++){
+	        for(auto it:adj[i]){
+	            ind[it]++;
+	        }
+	    }
+	    vector<int> ans;
+	    queue<int> q;
+	    for(int i=0; i<v; i++){
+	        if(ind[i]==0) q.push(i);
+	    }
+	    int ct=0;
+	    while(!q.empty()){
+	        int curr = q.front();
+	        q.pop();
+	        ans.push_back(curr);
+	        for(auto it:adj[curr]){
+	            ind[it]--;
+	            if(ind[it]==0) q.push(it);
+	        }
+	        ct++;
+	    }
+	    return ans;
+	}
+};
+```
 
 [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1 "do this by dfs")
 
