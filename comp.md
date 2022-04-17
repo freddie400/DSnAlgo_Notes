@@ -542,6 +542,72 @@ ___
 
 ## "Graph Algo: DFS-Graph coloring, cycle detection in directed and undirected graph"
 
+> solve the questions first, then go to code:
+
+[Cycle Detection in Directed Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1# "solve once")
+
+[Cycle Detection in Undirected Graph](https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1# "solve once")
+
+
+
+> Cycle Detection in Directed Graph
+
+![Directed Graph](https://media.geeksforgeeks.org/wp-content/uploads/cycle.png "Directed Graph with Cycle")
+
+```
+class Solution {
+    bool dfs(int v, vector<int> adj[], vector<int> &vis){
+        if(vis[v]==1) return 1;
+        vis[v]=1;
+        for(auto it:adj[v]){
+            if(vis[it]!=2)
+            if(dfs(it,adj,vis)) return 1;
+        }
+        vis[v]=2;
+        return 0;
+    }
+    
+  public:
+    bool isCyclic(int v, vector<int> adj[]) {
+        vector<int> vis(v,0);
+        for(int i=0; i<v; i++){
+            if(dfs(i,adj,vis)) return 1;
+        }
+        return 0;
+    }
+};
+```
+
+
+> Cycle Detection in Undirected Graph
+
+![Undirected Graph](https://media.geeksforgeeks.org/wp-content/cdn-uploads/cycleGraph-300x156.png "Undirected Graph with Cycle")
+
+```
+class Solution {
+    bool dfs(int v, vector<int> adj[], vector<int> &vis, int p){
+        vis[v]=1;
+        for(auto it:adj[v]){
+            if(vis[it]==0){
+                if(dfs(it,adj,vis,v)) return 1;
+            }else if(it!=p){
+                return 1;
+            }
+        }
+        return 0;
+    }
+    
+  public:
+    bool isCycle(int v, vector<int> adj[]) {
+        vector<int> vis(v,0);
+        for(int i=0; i<v; i++){
+            if(vis[i]==0)
+            if(dfs(i,adj,vis,-1)) return 1;
+        }
+        return 0;
+    }
+};
+```
 
 
 ___
