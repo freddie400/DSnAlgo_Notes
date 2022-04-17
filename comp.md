@@ -428,7 +428,7 @@ ___
 
 > implementational code
 
-![a](https://i.ytimg.com/vi/5MEZXOyaRmk/maxresdefault.jpg)
+![a](https://ibb.co/XkCX48L)
 
 
 ```
