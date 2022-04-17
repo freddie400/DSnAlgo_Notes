@@ -554,24 +554,28 @@ ___
 
 ![Directed Graph](https://media.geeksforgeeks.org/wp-content/uploads/cycle.png "Directed Graph with Cycle")
 
+
 ```
 class Solution {
-    bool dfs(int v, vector<int> adj[], vector<int> &vis){
-        if(vis[v]==1) return 1;
-        vis[v]=1;
-        for(auto it:adj[v]){
+    bool dfs(int i, vector<int> &vis, vector<int> adj[]){
+        if(vis[i]) return 1;
+        vis[i]=1;
+        for(auto it:adj[i]){
             if(vis[it]!=2)
-            if(dfs(it,adj,vis)) return 1;
+            if(dfs(it,vis,adj)) return 1;
         }
-        vis[v]=2;
+        vis[i]=2;
         return 0;
     }
     
+    // the vis[i]=2 thing is done to mark that that node has been traversed thoroughly, so that we don't end up going through that node again.
+    
   public:
-    bool isCyclic(int v, vector<int> adj[]) {
+    bool isCyclic(int v, vector<int> adj[]){
         vector<int> vis(v,0);
         for(int i=0; i<v; i++){
-            if(dfs(i,adj,vis)) return 1;
+            if(!vis[i])
+            if(dfs(i,vis,adj)) return 1;
         }
         return 0;
     }
@@ -585,14 +589,14 @@ class Solution {
 
 ```
 class Solution {
-    bool dfs(int v, vector<int> adj[], vector<int> &vis, int p){
+    
+    bool dfs(int v, vector<int> &vis, vector<int> adj[], int p){
+        if(vis[v]) return 1;
         vis[v]=1;
         for(auto it:adj[v]){
-            if(vis[it]==0){
-                if(dfs(it,adj,vis,v)) return 1;
-            }else if(it!=p){
-                return 1;
-            }
+            if(!vis[it]){
+                if(dfs(it,vis,adj,v)) return 1;
+            }else if(it!=p) return 1;
         }
         return 0;
     }
@@ -601,8 +605,8 @@ class Solution {
     bool isCycle(int v, vector<int> adj[]) {
         vector<int> vis(v,0);
         for(int i=0; i<v; i++){
-            if(vis[i]==0)
-            if(dfs(i,adj,vis,-1)) return 1;
+            if(!vis[i])
+            if(dfs(i,vis,adj,-1)) return 1;
         }
         return 0;
     }
