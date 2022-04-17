@@ -1,27 +1,31 @@
 ___
 
 ## "Arrays"
-[Largest Number](https://www.interviewbit.com/problems/largest-number/ "good one")
 
+>> custom logic function for desired sorting
 
 ```
 bool comp(string a, string b){
     return a+b>b+a;
 }
 
-
 sort(v.begin(), v.end(), comp);
-
 ```
 
+[Largest Number](https://www.interviewbit.com/problems/largest-number/ "good one")
 
 [Repeat and Missing Number Array](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Solve by> Normal Sum, Bit-Wise and by Playing with Index")
 
 [N/3 Repeat Number](https://www.interviewbit.com/old/problems/n3-repeat-number/ "A Good Logic")
 
-> one thing about this question, `n/3` here, we take c1 and c2, as 2=3-1.
-> if `n/t`, then we take ci where i=t-1
+>> one thing about this question, `n/3` here, we take c1 and c2, as 2=3-1.
+
+>> if `n/t`, then we take ci where i=t-1
+
+
 ___
+
+
 
 ## "Maths"
 
@@ -35,10 +39,10 @@ ___
 
 [Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
+>> ct*(n-ct) is done to multiple 'count of 1s & count of 0s', i.e. ct==1s and n-ct==0s
+
 [Find Nth Fibonacci](https://www.interviewbit.com/problems/find-nth-fibonacci/ "really good one, haven't solved yet")
 
-
-> ct*(n-ct) is done to multiple 'count of 1s & count of 0s', i.e. ct==1s and n-ct==0s
 
 **Memory allocation to variables in computer memory**
 
@@ -63,9 +67,11 @@ _ _ _ ... _ _
 0 1 1 ... 1 1
 
 i.e. 2^31-1
+
 ```
 
 and, for max negative
+
 ```
 _ _ _ ... _ _
 
@@ -95,11 +101,12 @@ Let ^ be xor operator as in C and C++.
 
 Since XOR is associative and commutative, above 
 expression can be written as:
+
 ```
 res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)  
     = 7 ^ 0 ^ 0 ^ 0
     = 7 ^ 0
-    = 7 
+    = 7
 ```
 
 [Single Number II](https://www.interviewbit.com/old/problems/single-number-ii/ "Solve Once")
@@ -108,7 +115,9 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
 
 [Counting Bits](https://leetcode.com/problems/counting-bits/submissions/ "Count Bits Logic")
 
+
 ___
+
 
 ## "2-Pointers"
 
@@ -150,6 +159,35 @@ ___
 
 ## "Linked List"
 
+>> Singly Linked List
+
+```
+struct ListNode{
+    int val;
+    struct ListNode* next;
+    ListNode(int x){
+        val=x;
+        next=NULL;
+    }
+};
+```
+
+>> Doubly Linked List
+
+```
+struct dListNode{
+    int val;
+    struct dListNode* next;
+    struct dListNode* prev;
+    dListNode(int x){
+        prev=NULL;
+        val=x;
+        next=NULL;
+    }
+};
+```
+
+
 [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/ "2nd method is really cool")
 
 [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii "handle issue with m==1")
@@ -169,6 +207,22 @@ ___
 [Window String](https://www.interviewbit.com/old/problems/window-string/ "to be done with sliding windows and 'concept' of MAP")
 
 [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/ "do it, good one")
+
+```
+map<int, int, greater<int>> mp;
+
+map<int,int>::iterator it;
+
+set<int> st;
+
+st.insert(); st.erase();
+
+vector<vectot<int>> vec;
+
+set<vector<int>> st(vec);
+
+```
+
 ___
 
 
@@ -190,7 +244,23 @@ ___
 
 ___
 
+
 ## "Trees"
+
+```
+struct TreeNode{
+    int val;
+    struct TreeNode* left;
+    struct TreeNode* right;
+    
+    TreeNode(int x){
+        left = NULL;
+        val = x;
+        right = NULL;
+    }
+};
+```
+
 
 [Inorder Traversal Without Recursion](https://www.geeksforgeeks.org/inorder-tree-traversal-without-recursion/ "solve once")
 
@@ -205,6 +275,7 @@ ___
 [Flatten Binary Tree to Linked List](https://www.interviewbit.com/old/problems/flatten-binary-tree-to-linked-list/ "good one")
 
 ___
+
 
 ## "Backtracking"
 
@@ -226,9 +297,16 @@ ___
 
 ## "Prioroty Queue"
 
+```
+priority_queue<int, vector<int>, greater<int>> pq;
+
+priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
+```
+
 [Trains and Platforms](https://www.hackerrank.com/contests/kilobyte-uz-contest1/challenges/trains-and-platforms/problem "good one for priority queue")
 
 ___
+
 
 ## "Graphs"
 
@@ -279,6 +357,7 @@ iii. Check if given two nodes are connected = O(n)
 
 ___
 
+
 ## "BFS"
 
 [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree "theek hi h matlab")
@@ -294,6 +373,7 @@ ___
 
 
 ___
+
 
 ## "DFS'
 
@@ -317,6 +397,7 @@ ___
 
  
 ___
+
 
 ## "Dynamic Programming"
 
@@ -342,7 +423,18 @@ ___
 
 ___
 
+
 ## "Graph Algo: Dijkstra"
+
+> implementational code
+
+![a](file:///home/oxidane/Pictures/Screenshot%20from%202022-04-17%2015-10-33.png)
+
+
+```
+
+```
+
 
 [Dijkstra Implementation](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1 "Dijkstra implementation")
 
