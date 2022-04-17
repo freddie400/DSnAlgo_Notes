@@ -428,7 +428,7 @@ ___
 
 > implementational code
 
-![Sample Graph](https://serving.photos.photobox.com/3665964029648118fb6c0606cd9652a0fe0f44220b87b5a8e418738b8ae4819880796710.jpg "Sample Graph to Understand Code)
+![Sample Graph](https://serving.photos.photobox.com/3665964029648118fb6c0606cd9652a0fe0f44220b87b5a8e418738b8ae4819880796710.jpg "Sample Graph to Understand Code")
 
 
 ```
