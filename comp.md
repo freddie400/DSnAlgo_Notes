@@ -324,26 +324,45 @@ ___
 
 [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1 "implementation")
 
+[Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1 "always do")
+
+[Knight Probability in Chessboard](https://leetcode.com/problems/knight-probability-in-chessboard "good one")
+
 [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/ "implementation")
 
 [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/ "implementation")
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "implementation")
 
-[]( "implementation")
+[Maximize The Cut Segment](https://practice.geeksforgeeks.org/problems/cutted-segments/0 "good one")
+
+[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation "great question")
+
 
 
 ___
 
 ## "Graph Algo: Dijkstra"
 
+[Dijkstra Implementation](https://practice.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1 "Dijkstra implementation")
+
+[Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops "have a look once")
+
+[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water "have a look once")
+
 ___
 
 ## "Graph Algo: Topological Sort"
 
+[Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1 "do this by dfs")
+
+[Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1 "do this by kahn's algo")
+
 ___
 
 ## "Graph Algo: DFS-Graph coloring, cycle detection in directed and undirected graph"
+
+
 
 ___
 
