@@ -428,7 +428,7 @@ ___
 
 > implementational code
 
-![a](file:///home/oxidane/Pictures/Screenshot%20from%202022-04-17%2015-10-33.png)
+![a](https://i.ytimg.com/vi/5MEZXOyaRmk/maxresdefault.jpg)
 
 
 ```
