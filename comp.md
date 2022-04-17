@@ -319,6 +319,8 @@ priority_queue<int, vector<int>, greater<int>> pq;
 
 priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
 
+priority_queue<pair<int,char>> pq;
+
 priority_queue<pair<int, int>, vector<pair<int, int>>, greater<pair<int, int>>> pq;
 
 ```
