@@ -37,7 +37,7 @@ ___
 
 [Next Smallest Palindrome](https://www.interviewbit.com/problems/next-smallest-palindrome/ "very good question")
 
-[Sum of pairwise Hamming Distance](https://www.interviewbit.com/old/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
+[Sum of pairwise Hamming Distance](https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/ "Hamming Distance Sum")
 
 >> ct*(n-ct) is done to multiple 'count of 1s & count of 0s', i.e. ct==1s and n-ct==0s
 
@@ -83,7 +83,7 @@ ___
 
 
 ## "Bit Manipulation"
-[Single Number](https://www.interviewbit.com/old/problems/single-number/ "Nice Logic")
+[Single Number](https://www.interviewbit.com/problems/single-number/ "Nice Logic")
 
 >> a) XOR of a number with itself is 0.
 
@@ -109,11 +109,11 @@ res = 7 ^ (3 ^ 3) ^ (4 ^ 4) ^ (5 ^ 5)
     = 7
 ```
 
-[Single Number II](https://www.interviewbit.com/old/problems/single-number-ii/ "Solve Once")
+[Single Number II](https://www.interviewbit.com/problems/single-number-ii/ "Solve Once")
 
-[Count Total Set Bits](https://www.interviewbit.com/old/problems/count-total-set-bits/ "See Mine and Other's Solution")
+[Count Total Set Bits](https://www.interviewbit.com/problems/count-total-set-bits/ "See Mine and Other's Solution")
 
-[Counting Bits](https://leetcode.com/problems/counting-bits/submissions/ "Count Bits Logic")
+[Counting Bits](https://leetcode.com/problems/counting-bits/ "Count Bits Logic")
 
 
 ___
@@ -149,7 +149,7 @@ DUHH !!
 ```
 
 
-[Remove Duplicates from Sorted Array](https://www.interviewbit.com/old/problems/remove-duplicates-from-sorted-array/ "Logic")
+[Remove Duplicates from Sorted Array](https://www.interviewbit.com/problems/remove-duplicates-from-sorted-array/ "Logic")
 
 [4Sum](https://leetcode.com/problems/4sum/ "Nothing special, just general idea of 2-pointers")
 
@@ -194,9 +194,9 @@ struct dListNode{
 
 [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ "really good one")
 
-[Merge Two Sorted Lists](https://www.interviewbit.com/old/problems/merge-two-sorted-lists/ "2 methods, iterative and recursive")
+[Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/ "2 methods, iterative and recursive")
 
-[K reverse linked list](https://www.interviewbit.com/old/problems/k-reverse-linked-list/ "dekh lena ek baar")
+[K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/ "dekh lena ek baar")
 
 
 
@@ -204,7 +204,7 @@ ___
 
 ## "Hashing"
 
-[Window String](https://www.interviewbit.com/old/problems/window-string/ "to be done with sliding windows and 'concept' of MAP")
+[Window String](https://www.interviewbit.com/problems/window-string/ "to be done with sliding windows and 'concept' of MAP")
 
 [Longest Substring Without Repeat](https://www.interviewbit.com/problems/longest-substring-without-repeat/ "do it, good one")
 
@@ -242,7 +242,7 @@ ___
 
 [132 Pattern](https://leetcode.com/problems/132-pattern/ "Nice implementation")
 
-[Remove K Digits](https://leetcode.com/problems/remove-k-digits/submissions/ "makes you think")
+[Remove K Digits](https://leetcode.com/problems/remove-k-digits/ "makes you think")
 
 [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/ "one of the best")
 
