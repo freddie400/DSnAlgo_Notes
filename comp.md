@@ -14,9 +14,9 @@ sort(v.begin(), v.end(), comp);
 
 [Largest Number](https://www.interviewbit.com/problems/largest-number/ "good one")
 
-[Repeat and Missing Number Array](https://www.interviewbit.com/old/problems/repeat-and-missing-number-array/ "Solve by> Normal Sum, Bit-Wise and by Playing with Index")
+[Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/ "Solve by> Normal Sum, Bit-Wise and by Playing with Index")
 
-[N/3 Repeat Number](https://www.interviewbit.com/old/problems/n3-repeat-number/ "A Good Logic")
+[N/3 Repeat Number](https://www.interviewbit.com/problems/n3-repeat-number/ "A Good Logic")
 
 >> one thing about this question, `n/3` here, we take c1 and c2, as 2=3-1.
 
