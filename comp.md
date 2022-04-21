@@ -188,7 +188,7 @@ struct dListNode{
 ```
 
 
-[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/ "2nd method is really cool")
+[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/ "2nd method is really cool")
 
 [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii "handle issue with m==1")
 
@@ -455,7 +455,7 @@ ___
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "implementation")
 
-[Maximize The Cut Segment](https://practice.geeksforgeeks.org/problems/cutted-segments/0 "good one")
+[Maximize The Cut Segment](https://practice.geeksforgeeks.org/problems/cutted-segments/ "good one")
 
 [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation "great question")
 
