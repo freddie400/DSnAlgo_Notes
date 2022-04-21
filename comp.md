@@ -280,6 +280,17 @@ struct TreeNode{
 
 [Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/ "good one")
 
+[Right View of Binary Tree](https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1/ "solve once")
+
+[Right View of Binary Tree Using Queue](https://www.geeksforgeeks.org/right-view-binary-tree-using-queue/ "solve once")
+
+[Left View of Binary Tree](https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1/ "solve once")
+
+[Top View of Binary Tree](https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1 "solve once")
+
+[Bottom View of Binary Tree](https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1 "solve once")
+
+
 ___
 
 
