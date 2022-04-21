@@ -377,6 +377,20 @@ ii. Finding adjacent nodes = O(n)
 iii. Check if given two nodes are connected = O(n)
 
 
+*Time Complexity Analysis of Some Special Cases:*
+
+V: No. of Vertices
+E: No. of Edges
+BFS: O(V+E)
+DFS: O(V+E)
+Detect Cycle in a Directed Graph: O(V+E)
+Detect Cycle in an Undirected Graph: O(V+E)
+BFS with multiple sources (Rotten Oranges): O(V+E)=O(No. of cells in the grid)
+Topological Sort: O(V+E)
+Shortest path in an unweighted graph: O(V+E)
+Shortest path in a weighted graph: O(V+E)
+
+
 ___
 
 
@@ -490,6 +504,8 @@ class Solution{
 ___
 
 ## "Graph Algo: Topological Sort"
+
+Topological Sort is only possible for a DAG (Directed Acyclic Graph)
 
 > Topological Sort: DFS
 
