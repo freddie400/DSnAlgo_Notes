@@ -274,20 +274,20 @@ struct TreeNode{
 
 [Next Greater Number BST](https://www.interviewbit.com/problems/next-greater-number-bst/ "just solve it")
 
-[Vertical Order Traversal of Binary Tree](https://www.interviewbit.com/old/problems/vertical-order-traversal-of-binary-tree/ "its not pre-order, its level order")
+[Vertical Order Traversal of Binary Tree](https://www.interviewbit.com/problems/vertical-order-traversal-of-binary-tree/ "its not pre-order, its level order")
 
 [Boundary Traversal of binary tree](https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1/ "implementation")
 
-[Flatten Binary Tree to Linked List](https://www.interviewbit.com/old/problems/flatten-binary-tree-to-linked-list/ "good one")
+[Flatten Binary Tree to Linked List](https://www.interviewbit.com/problems/flatten-binary-tree-to-linked-list/ "good one")
 
 ___
 
 
 ## "Backtracking"
 
-[Sudoku](https://www.interviewbit.com/old/problems/sudoku/ "Solve this once for a good overview of board problems")
+[Sudoku](https://www.interviewbit.com/problems/sudoku/ "Solve this once for a good overview of board problems")
 
-[Subset](https://www.interviewbit.com/old/problems/subset/ "this approach might help in some other problems, do it by recursion and backtracking >> 2 methods")
+[Subset](https://www.interviewbit.com/problems/subset/ "this approach might help in some other problems, do it by recursion and backtracking >> 2 methods")
 
 [Combination Sum II](https://www.interviewbit.com/problems/combination-sum-ii/ "with and without the for loop")
 
