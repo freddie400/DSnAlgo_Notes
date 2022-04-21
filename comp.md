@@ -380,15 +380,18 @@ iii. Check if given two nodes are connected = O(n)
 *Time Complexity Analysis of Some Special Cases:*
 
 V: No. of Vertices
+
 E: No. of Edges
-BFS: O(V+E)
-DFS: O(V+E)
-Detect Cycle in a Directed Graph: O(V+E)
-Detect Cycle in an Undirected Graph: O(V+E)
-BFS with multiple sources (Rotten Oranges): O(V+E)=O(No. of cells in the grid)
-Topological Sort: O(V+E)
-Shortest path in an unweighted graph: O(V+E)
-Shortest path in a weighted graph: O(V+E)
+
+
+1. BFS: O(V+E)
+2. DFS: O(V+E)
+3. Detect Cycle in a Directed Graph: O(V+E)
+4. Detect Cycle in an Undirected Graph: O(V+E)
+5. BFS with multiple sources (Rotten Oranges): O(V+E)=O(No. of cells in the grid)
+6. Topological Sort: O(V+E)
+7. Shortest path in an unweighted graph: O(V+E)
+8. Shortest path in a weighted graph (Dijkstra): O(V+E)
 
 
 ___
