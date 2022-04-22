@@ -671,6 +671,12 @@ ___
 
 ## "Sliding Window"
 
+[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/ "solve once")
+
+[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/ "good one")
+
+[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring "Do it again")
+
 ___
 
 ## "Binary Search"
