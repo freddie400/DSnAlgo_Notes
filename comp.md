@@ -681,9 +681,20 @@ ___
 
 ## "Binary Search"
 
-[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/ "considered as a really good question")
+Binary Search STL Functions: [Binary Search, Upper Bound & Lower Bound](https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/ "STL functions")
 
-[Lower Bound, Upper Bound](https://www.geeksforgeeks.org/binary-search-functions-in-c-stl-binary_search-lower_bound-and-upper_bound/ "imp STL")
+> when you are 'searching' for an element, you do `lo=mid` or `hi=mid`
+> when you are 'checking' if that no. is an answer, you do `lo=mid+1` or `hi=mid-1`
+
+[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array "kuch bhi nai h, but lo & hi ka management dekh lo ek baar")
+
+[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray "good one, its actually DP")
+
+[Allocate Minimum Number of Pages](https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0 "one of the bests in BS")
+
+[The Painter’s Partition Problem](https://www.interviewbit.com/problems/painters-partition-problem/ "one of the bests in BS")
+
+[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/ "considered as a really good question")
 
 ___
 
