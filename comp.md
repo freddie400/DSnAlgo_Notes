@@ -700,6 +700,10 @@ ___
 
 ## "Greedy"
 
+[Gas Station](https://www.interviewbit.com/problems/gas-station/ "implementation")
+
+[Couple Holding Hands](https://leetcode.com/problems/couples-holding-hands/ "noice")
+
 ___
 
 ## "Graph Algo: Union Find"
