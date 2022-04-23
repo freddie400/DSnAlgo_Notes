@@ -194,7 +194,7 @@ struct dListNode{
 
 [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ "really good one")
 
-[Merge Two Sorted Lists](https://www.interviewbit.com/problems/merge-two-sorted-lists/ "2 methods, iterative and recursive")
+[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/ "2 methods, iterative and recursive")
 
 [K reverse linked list](https://www.interviewbit.com/problems/k-reverse-linked-list/ "dekh lena ek baar")
 
