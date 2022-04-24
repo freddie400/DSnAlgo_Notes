@@ -718,8 +718,21 @@ ___
 
 [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/ "Implementation")
 
+[Permutations](https://leetcode.com/problems/permutations/ "implementation")
 
+[Word Ladder II](https://leetcode.com/problems/word-ladder-ii/ "just visualize the implementation")
 
+[LRU Cache](https://leetcode.com/problems/lru-cache/ "solve once")
+
+[LFU Cache](https://leetcode.com/problems/lfu-cache/ "do everytime")
+
+[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/ "have a look")
+
+[Find Median of Data Stream](https://leetcode.com/problems/find-median-from-data-stream/ "good one")
+
+[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/ "do it in O(n long(n))")
+
+[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/ "headache of a problem, try to do it by DP, if can't, don't spend much time")
 
 ___
 ___
