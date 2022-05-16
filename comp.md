@@ -644,7 +644,7 @@ class Solution {
 class Solution {
     
     bool dfs(int v, vector<int> &vis, vector<int> adj[], int p){
-        if(vis[v]) return 1;
+        // if(vis[v]) return 1;  // this line is redundant
         vis[v]=1;
         for(auto it:adj[v]){
             if(!vis[it]){
