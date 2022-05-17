@@ -734,6 +734,24 @@ ___
 
 [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/ "headache of a problem, try to do it by DP, if can't, don't spend much time")
 
+[MCM](https://leetcode.com/problems/burst-balloons/discuss/1986215/Evolve-from-Matrix-Chain-Multiplication-and-master-all-kinds-of-MCM-problems "great question for concept of MCM")
+
+[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/ "good one")
+
+[Box Stacking](https://practice.geeksforgeeks.org/problems/box-stacking/1 "good one")
+
+[Maximum Height by Stacking Cuboids](https://leetcode.com/problems/maximum-height-by-stacking-cuboids/ "good one")
+
+[Minesweeper](https://leetcode.com/problems/minesweeper/ "good one")
+
+[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/ "great one, do by all methods")
+
+[Escape the Spreading Fire](https://leetcode.com/problems/escape-the-spreading-fire/ "good one")
+
+[Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/ "good one")
+
+[]( "good one")
+
 ___
 ___
 ___
