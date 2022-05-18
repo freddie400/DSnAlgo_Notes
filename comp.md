@@ -468,7 +468,7 @@ ___
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/ "implementation")
 
-[Maximize The Cut Segment](https://practice.geeksforgeeks.org/problems/cutted-segments/ "good one")
+[Maximize The Cut Segment](https://practice.geeksforgeeks.org/problems/cutted-segments1642/1/ "good one")
 
 [Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation "great question")
 
