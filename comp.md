@@ -454,6 +454,8 @@ ___
 
 [House Robber](https://leetcode.com/problems/house-robber "implementation")
 
+[Matrix Chain Multiplication](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1/ "great question")
+
 [Longest Increasing Subsequence](https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1 "implementation")
 
 [Optimal Strategy For A Game](https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game-1587115620/1 "always do")
