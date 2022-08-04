@@ -752,21 +752,51 @@ ___
 
 [Minimum Time to Finish the Race](https://leetcode.com/problems/minimum-time-to-finish-the-race/ "good one")
 
+[Reorganize String](https://leetcode.com/problems/reorganize-string/)
+
 []( "good one")
 
 ___
 ___
 ___
-.
-.
-.
-.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361
 
 
 https://blog.shahjalalshohag.com/topic-list/
+
+
+## Resources
+
+[Google 1](https://leetcode.com/discuss/interview-experience/776280/Google-or-L3-or-Bangalore-or-July-2020-Offer)
+
+[Google 2](https://leetcode.com/discuss/interview-experience/2005795/google-l4-zurich-march-2022-offer-accepted)
+
+[Google 3](https://leetcode.com/discuss/interview-experience/2082298/when-life-hurts-google)
+
+[Amazon LP](https://leetcode.com/discuss/study-guide/2004928/amazon-lp-questions)
+
+[Cool Down Periods](https://leetcode.com/discuss/career/771157/cool-down-period-for-all-faangs-number-of-tries-and-different-job-posts)
+
+
+
+
+
 
 .
 .
